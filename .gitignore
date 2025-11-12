@@ -3,6 +3,7 @@ temp.ipynb
 .env
 /private
 /.vscode
-.faiss
+*.faiss
+*.pkl
 /.vscode
 /.ipynb_checkpoints
